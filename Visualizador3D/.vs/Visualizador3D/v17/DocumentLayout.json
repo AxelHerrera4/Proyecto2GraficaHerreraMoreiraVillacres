@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ekoingenieria\\Desktop\\Visualizador3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55D47435-5A9F-4941-B7A3-8F394F31716A}|Visualizador3D\\Visualizador3D.csproj|c:\\users\\ekoingenieria\\desktop\\visualizador3d\\visualizador3d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D47435-5A9F-4941-B7A3-8F394F31716A}|Visualizador3D\\Visualizador3D.csproj|solutionrelative:visualizador3d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D47435-5A9F-4941-B7A3-8F394F31716A}|Visualizador3D\\Visualizador3D.csproj|c:\\users\\ekoingenieria\\desktop\\visualizador3d\\visualizador3d\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D47435-5A9F-4941-B7A3-8F394F31716A}|Visualizador3D\\Visualizador3D.csproj|solutionrelative:visualizador3d\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D47435-5A9F-4941-B7A3-8F394F31716A}|Visualizador3D\\Visualizador3D.csproj|C:\\Users\\ekoingenieria\\Desktop\\Visualizador3D\\visualizador3d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55D47435-5A9F-4941-B7A3-8F394F31716A}|Visualizador3D\\Visualizador3D.csproj|solutionrelative:visualizador3d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D47435-5A9F-4941-B7A3-8F394F31716A}|Visualizador3D\\Visualizador3D.csproj|C:\\Users\\ekoingenieria\\Desktop\\Visualizador3D\\visualizador3d\\resources\\3d-logo-png-pic.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{55D47435-5A9F-4941-B7A3-8F394F31716A}|Visualizador3D\\Visualizador3D.csproj|solutionrelative:visualizador3d\\resources\\3d-logo-png-pic.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D47435-5A9F-4941-B7A3-8F394F31716A}|Visualizador3D\\Visualizador3D.csproj|C:\\Users\\ekoingenieria\\Desktop\\Visualizador3D\\visualizador3d\\forms\\formcone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D47435-5A9F-4941-B7A3-8F394F31716A}|Visualizador3D\\Visualizador3D.csproj|solutionrelative:visualizador3d\\forms\\formcone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D47435-5A9F-4941-B7A3-8F394F31716A}|Visualizador3D\\Visualizador3D.csproj|C:\\Users\\ekoingenieria\\Desktop\\Visualizador3D\\visualizador3d\\forms\\formsphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D47435-5A9F-4941-B7A3-8F394F31716A}|Visualizador3D\\Visualizador3D.csproj|solutionrelative:visualizador3d\\forms\\formsphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 708,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ekoingenieria\\Desktop\\Visualizador3D\\Visualizador3D\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Visualizador3D\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ekoingenieria\\Desktop\\Visualizador3D\\Visualizador3D\\Form1.Designer.cs",
+              "RelativeToolTip": "Visualizador3D\\Form1.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T01:30:09.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ekoingenieria\\Desktop\\Visualizador3D\\Visualizador3D\\Form1.cs",
+              "RelativeDocumentMoniker": "Visualizador3D\\Form1.cs",
+              "ToolTip": "C:\\Users\\ekoingenieria\\Desktop\\Visualizador3D\\Visualizador3D\\Form1.cs",
+              "RelativeToolTip": "Visualizador3D\\Form1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwHwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T23:16:32.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormCone.cs",
+              "DocumentMoniker": "C:\\Users\\ekoingenieria\\Desktop\\Visualizador3D\\Visualizador3D\\Forms\\FormCone.cs",
+              "RelativeDocumentMoniker": "Visualizador3D\\Forms\\FormCone.cs",
+              "ToolTip": "C:\\Users\\ekoingenieria\\Desktop\\Visualizador3D\\Visualizador3D\\Forms\\FormCone.cs",
+              "RelativeToolTip": "Visualizador3D\\Forms\\FormCone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T23:13:07.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ekoingenieria\\Desktop\\Visualizador3D\\Visualizador3D\\Form1.cs",
+              "RelativeDocumentMoniker": "Visualizador3D\\Form1.cs",
+              "ToolTip": "C:\\Users\\ekoingenieria\\Desktop\\Visualizador3D\\Visualizador3D\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Visualizador3D\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:30:41.053Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3D-Logo-PNG-Pic.png",
+              "DocumentMoniker": "C:\\Users\\ekoingenieria\\Desktop\\Visualizador3D\\Visualizador3D\\Resources\\3D-Logo-PNG-Pic.png",
+              "RelativeDocumentMoniker": "Visualizador3D\\Resources\\3D-Logo-PNG-Pic.png",
+              "ToolTip": "C:\\Users\\ekoingenieria\\Desktop\\Visualizador3D\\Visualizador3D\\Resources\\3D-Logo-PNG-Pic.png",
+              "RelativeToolTip": "Visualizador3D\\Resources\\3D-Logo-PNG-Pic.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-10T00:25:13.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormSphere.cs",
+              "DocumentMoniker": "C:\\Users\\ekoingenieria\\Desktop\\Visualizador3D\\Visualizador3D\\Forms\\FormSphere.cs",
+              "RelativeDocumentMoniker": "Visualizador3D\\Forms\\FormSphere.cs",
+              "ToolTip": "C:\\Users\\ekoingenieria\\Desktop\\Visualizador3D\\Visualizador3D\\Forms\\FormSphere.cs",
+              "RelativeToolTip": "Visualizador3D\\Forms\\FormSphere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T22:53:26.43Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
